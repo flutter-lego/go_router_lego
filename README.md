@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/go_router_lego.svg)](https://pub.dartlang.org/packages/go_router_lego)
 
 # go_router_lego
-description here
+apply go_router in lego project
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.
@@ -17,4 +17,4 @@ lego add go_router_lego
 ```
 
 ## Usage
-Usage here
+config routing in `lib/util/config/go_router_lego/_.dart`
