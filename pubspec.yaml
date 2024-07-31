@@ -3,7 +3,7 @@ description: "apply go_router in flutter with lego project"
 #publish_to: 'none'
 repository: https://github.com/flutter-lego/go_router_lego
 
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
